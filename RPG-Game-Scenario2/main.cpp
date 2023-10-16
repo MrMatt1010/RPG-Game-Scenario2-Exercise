@@ -1,5 +1,5 @@
-﻿// RPG-Game-Scenario2.cpp : Defines the entry point for the application.
-//
+﻿// CS105 - RPG-Game-Scenario2.cpp
+// Matt Taylor 
 
 // main.cpp
 #include <iostream>
